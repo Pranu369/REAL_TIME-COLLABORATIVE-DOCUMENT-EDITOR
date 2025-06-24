@@ -1,3 +1,19 @@
+COMPANY NAME:CODTECH IT SOLUTIONS
+
+"NAME":CHILAKA.PRANAVI
+
+"INTERN ID":CT04DN1559
+
+"DOMAIN":FULL STACK WEB DEVELOPMENT
+
+"DURATION": 4 WEEKS
+
+"MENTOR": NEELA SANTOSH
+Description:
+The Real-Time Collaborative Document Editor is a dynamic web application that enables multiple users to edit and collaborate on documents simultaneously. Built using React.js for the frontend and Node.js with Socket.IO for the backend, it ensures seamless real-time updates without page refreshes. MongoDB is used to store and manage document data efficiently. The editor is designed to be responsive, user-friendly, and efficient, offering an experience similar to Google Docs. It supports live syncing of content across all connected clients, making it ideal for remote teams, classrooms, and collaborative environments that demand real-time content creation and editing functionality.
+![Screenshot 2025-06-22 212605](https://github.com/user-attachments/assets/66d73275-f7e1-4e9b-8a49-6d704e7ea98b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
